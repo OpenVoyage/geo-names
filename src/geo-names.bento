@@ -1,0 +1,21 @@
+/**  geo-names.bento
+ *
+ *   Geographical name service.
+ *
+ *
+ **/
+
+site geo_names [=
+
+    /-------- initialization ----------------------/
+
+    init [=
+    =]
+    
+    session_init [=
+    =]
+
+    
+
+
+=]
